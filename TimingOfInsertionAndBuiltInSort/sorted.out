@@ -1,0 +1,6 @@
+Random data insertion output: 364 711 865 880 
+Random data built-in sort output: 364 711 865 880 
+Ascending data insertion sort output: 0 1 2 3 
+Ascending data built-in sort output: 0 1 2 3 
+Descending data insertion sort output: 0 1 2 3 
+Descending data built-in sort output: 0 1 2 3 
